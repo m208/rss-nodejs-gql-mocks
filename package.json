@@ -1,0 +1,24 @@
+{
+  "name": "rss-nodejs-gql-mocks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m208/rss-nodejs-gql-mocks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m208/rss-nodejs-gql-mocks/issues"
+  },
+  "homepage": "https://github.com/m208/rss-nodejs-gql-mocks#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
